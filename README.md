@@ -105,6 +105,3 @@ My-store/
 
 **Aruna Thapa** — [GitHub](https://github.com/thapaangel)
 
-## License
-
-This project is for learning purposes. Add a license (for example MIT) if you plan to share or reuse it.
